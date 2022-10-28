@@ -1,0 +1,14 @@
+print('vinit\'s "laptop"')
+print("c:\doc\docs\navin")
+print(r"c;\docs\docs\navin")
+x = 5
+
+print(x + 3)
+
+name = "youtube"
+print(name)
+
+print(name + 'rocks')
+
+print(name[5])
+print("my" + name[3:])
